@@ -1,0 +1,6 @@
+framework module TestYws {
+  umbrella header "TestYws-umbrella.h"
+
+  export *
+  module * { export * }
+}

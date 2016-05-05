@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TestYws_Example', :exclusive => true do
+  pod 'TestYws', :path => '../'
+end
+
+target 'TestYws_Tests', :exclusive => true do
+  pod 'TestYws', :path => '../'
+
+  
+end

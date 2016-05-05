@@ -1,0 +1,14 @@
+PODS:
+  - TestYws (0.1.0)
+
+DEPENDENCIES:
+  - TestYws (from `../`)
+
+EXTERNAL SOURCES:
+  TestYws:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TestYws: af43f4474f7277c09c51b932476cf8c0903f2399
+
+COCOAPODS: 0.39.0
